@@ -7,6 +7,7 @@
     color: #282c3f;
     font-size: 13px;
     line-height: 1.42857143;
+    z-index:1;
   }
   
   .bag-page {
