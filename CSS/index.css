@@ -107,6 +107,7 @@ header {
     z-index:100000;
     padding:40px,100px;
     transition:0.6s;*/
+    z-index: 1000;/* keep the z index higher than the navbar's z-index*/
     position:sticky;
     top:0;
 }
